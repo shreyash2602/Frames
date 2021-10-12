@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <center>
+    <title>Frame-4</title>
+    <body bgcolor = "#b5dcb3">
+      <h3>FRAME-4</h3>
+      <p>Click any link and see the result.</p>
+      <a href = "https://www.w3schools.in/" target = "main_page">Link-3 W3SChool</a>
+    </body>
+  </center>
+</html>
+</head>
